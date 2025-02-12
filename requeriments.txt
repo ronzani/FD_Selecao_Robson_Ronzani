@@ -2,3 +2,8 @@ fastapi
 pandas
 uvicorn
 matplotlib
+pyarrow
+requests
+sqlalchemy
+psycopg2
+streamlit
